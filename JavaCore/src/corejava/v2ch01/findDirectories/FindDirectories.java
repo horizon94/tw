@@ -1,4 +1,4 @@
-package findDirectories;
+package corejava.v2ch01.findDirectories;
 
 import java.io.*;
 import java.nio.file.*;

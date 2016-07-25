@@ -1,4 +1,4 @@
-package objectStream;
+package corejava.v2ch01.objectStream;
 
 import java.io.*;
 import java.util.*;

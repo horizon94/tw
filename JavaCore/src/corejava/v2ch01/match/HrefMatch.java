@@ -1,4 +1,4 @@
-package match;
+package corejava.v2ch01.match;
 
 import java.io.*;
 import java.net.*;
