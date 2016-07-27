@@ -1,10 +1,9 @@
-package chart;
+package corejava.v2ch10.chart;
 
 import java.awt.*;
 import java.awt.font.*;
 import java.awt.geom.*;
 import javax.swing.*;
-import sourceAnnotations.*;
 
 /**
  * A bean to draw a bar chart.

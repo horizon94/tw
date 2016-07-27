@@ -1,4 +1,4 @@
-package tree;
+package corejava.v2ch06.tree;
 
 import javax.swing.*;
 import javax.swing.tree.*;

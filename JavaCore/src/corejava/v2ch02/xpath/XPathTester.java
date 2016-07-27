@@ -1,4 +1,4 @@
-package xpath;
+package corejava.v2ch02.xpath;
 
 import java.awt.*;
 import java.awt.event.*;

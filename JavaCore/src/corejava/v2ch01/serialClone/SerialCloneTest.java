@@ -1,4 +1,4 @@
-package serialClone;
+package corejava.v2ch01.serialClone;
 
 /**
    @version 1.20 17 Aug 1998

@@ -1,4 +1,4 @@
-package sax;
+package corejava.v2ch02.sax;
 
 import java.io.*;
 import java.net.*;

@@ -1,4 +1,4 @@
-package textFormat;
+package corejava.v2ch06.textFormat;
 
 import javax.swing.text.*;
 

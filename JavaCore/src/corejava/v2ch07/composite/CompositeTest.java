@@ -1,4 +1,4 @@
-package composite;
+package corejava.v2ch07.composite;
 
 import java.awt.*;
 import javax.swing.*;

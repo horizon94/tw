@@ -1,4 +1,4 @@
-package retire;
+package corejava.v2ch05.retire;
 
 import java.awt.*;
 import java.awt.event.*;

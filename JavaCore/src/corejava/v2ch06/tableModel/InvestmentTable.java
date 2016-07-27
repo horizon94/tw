@@ -1,4 +1,4 @@
-package tableModel;
+package corejava.v2ch06.tableModel;
 
 import java.awt.*;
 

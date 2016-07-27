@@ -1,4 +1,4 @@
-package list;
+package corejava.v2ch06.list;
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,4 +1,4 @@
-package print;
+package corejava.v2ch07.print;
 
 import java.awt.*;
 import java.awt.event.*;

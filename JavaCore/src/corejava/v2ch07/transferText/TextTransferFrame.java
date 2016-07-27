@@ -1,4 +1,4 @@
-package transferText;
+package corejava.v2ch07.transferText;
 
 import java.awt.*;
 import java.awt.datatransfer.*;

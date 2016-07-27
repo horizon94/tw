@@ -1,4 +1,4 @@
-package dateFormat;
+package corejava.v2ch05.dateFormat;
 
 import java.awt.*;
 import java.awt.event.*;

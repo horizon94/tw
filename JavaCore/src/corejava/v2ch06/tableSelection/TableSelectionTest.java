@@ -1,4 +1,4 @@
-package tableSelection;
+package corejava.v2ch06.tableSelection;
 
 /**
  @version 1.03 2007-08-01

@@ -1,4 +1,4 @@
-package collation;
+package corejava.v2ch05.collation;
 
 import java.util.*;
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package script;
+package corejava.v2ch10.script;
 
 import java.awt.*;
 import java.beans.*;

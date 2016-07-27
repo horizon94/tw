@@ -1,4 +1,4 @@
-package query;
+package corejava.v2ch04.query;
 
 import java.io.*;
 import java.nio.file.*;

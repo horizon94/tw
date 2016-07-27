@@ -1,4 +1,4 @@
-package table;
+package corejava.v2ch06.table;
 
 import java.awt.*;
 import java.awt.event.*;

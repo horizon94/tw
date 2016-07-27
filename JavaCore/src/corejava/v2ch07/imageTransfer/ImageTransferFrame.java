@@ -1,4 +1,4 @@
-package imageTransfer;
+package corejava.v2ch07.imageTransfer;
 
 import java.awt.*;
 import java.awt.datatransfer.*;

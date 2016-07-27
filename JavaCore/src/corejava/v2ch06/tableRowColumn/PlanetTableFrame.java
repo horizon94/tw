@@ -1,4 +1,4 @@
-package tableRowColumn;
+package corejava.v2ch06.tableRowColumn;
 
 import java.awt.*;
 import java.awt.event.*;

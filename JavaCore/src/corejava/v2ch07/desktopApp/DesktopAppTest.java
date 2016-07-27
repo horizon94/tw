@@ -1,4 +1,4 @@
-package desktopApp;
+package corejava.v2ch07.desktopApp;
 
 import java.awt.*;
 import javax.swing.*;

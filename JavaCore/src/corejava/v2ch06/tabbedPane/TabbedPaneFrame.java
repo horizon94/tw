@@ -1,4 +1,4 @@
-package tabbedPane;
+package corejava.v2ch06.tabbedPane;
 
 import java.awt.*;
 import java.awt.event.*;

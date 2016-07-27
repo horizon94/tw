@@ -1,4 +1,4 @@
-package tableSelection;
+package corejava.v2ch06.tableSelection;
 
 import java.awt.event.*;
 import java.util.*;

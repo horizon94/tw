@@ -1,4 +1,4 @@
-package listRendering;
+package corejava.v2ch06.listRendering;
 
 import java.awt.*;
 import java.util.*;

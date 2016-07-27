@@ -1,4 +1,4 @@
-package regex;
+package corejava.v2ch01.regex;
 
 import java.util.*;
 import java.util.regex.*;

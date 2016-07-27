@@ -1,4 +1,4 @@
-package layer;
+package corejava.v2ch06.layer;
 
 import java.awt.*;
 import java.awt.event.*;

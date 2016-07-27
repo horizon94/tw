@@ -1,4 +1,4 @@
-package tableCellRender;
+package corejava.v2ch06.tableCellRender;
 
 import java.awt.*;
 import java.awt.event.*;

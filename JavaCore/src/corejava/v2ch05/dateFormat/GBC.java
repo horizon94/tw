@@ -1,4 +1,4 @@
-package dateFormat;
+package corejava.v2ch05.dateFormat;
 
 /*
 GBC - A convenience class to tame the GridBagLayout

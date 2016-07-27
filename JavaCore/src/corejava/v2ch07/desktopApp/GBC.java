@@ -1,4 +1,4 @@
-package desktopApp;
+package corejava.v2ch07.desktopApp;
 
 /*
 GBC - A convenience class to tame the GridBagLayout

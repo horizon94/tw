@@ -1,4 +1,4 @@
-package systemTray;
+package corejava.v2ch07.systemTray;
 
 import java.awt.*;
 import java.awt.event.*;

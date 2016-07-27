@@ -1,4 +1,4 @@
-package serialTransfer;
+package corejava.v2ch07.serialTransfer;
 
 import java.awt.*;
 import javax.swing.*;

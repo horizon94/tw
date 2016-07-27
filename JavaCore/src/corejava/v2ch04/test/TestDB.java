@@ -1,4 +1,4 @@
-package test;
+package corejava.v2ch04.test;
 
 import java.nio.file.*;
 import java.sql.*;

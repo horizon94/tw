@@ -1,3 +1,5 @@
+package corejava.v2ch11.warehouse2;
+
 /**
  * A book is a product with an ISBN number.
  * @version 1.0 2007-10-09

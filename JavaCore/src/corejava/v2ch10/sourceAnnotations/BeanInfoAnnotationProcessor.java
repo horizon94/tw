@@ -1,4 +1,4 @@
-package sourceAnnotations;
+package corejava.v2ch10.sourceAnnotations;
 
 import java.beans.*;
 import java.io.*;

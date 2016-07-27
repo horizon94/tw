@@ -1,4 +1,4 @@
-package book;
+package corejava.v2ch07.book;
 
 import java.awt.*;
 import javax.swing.*;

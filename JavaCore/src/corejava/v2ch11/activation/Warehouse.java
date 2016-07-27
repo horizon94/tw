@@ -1,3 +1,5 @@
+package corejava.v2ch11.activation;
+
 import java.rmi.*;
 
 /**

@@ -1,4 +1,4 @@
-package spinner;
+package corejava.v2ch06.spinner;
 
 import java.awt.*;
 import java.awt.event.*;

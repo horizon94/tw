@@ -1,4 +1,4 @@
-package verifier;
+package corejava.v2ch09.verifier;
 
 import java.applet.*;
 import java.awt.*;

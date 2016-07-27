@@ -1,4 +1,4 @@
-package read;
+package corejava.v2ch02.read;
 
 import java.awt.*;
 import java.beans.*;

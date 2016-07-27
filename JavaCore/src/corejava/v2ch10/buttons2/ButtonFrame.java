@@ -1,4 +1,4 @@
-package buttons2;
+package corejava.v2ch10.buttons2;
 import javax.swing.*;
 
 /**

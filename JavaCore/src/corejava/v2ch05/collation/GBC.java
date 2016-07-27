@@ -1,4 +1,4 @@
-package collation;
+package corejava.v2ch05.collation;
 
 /*
 GBC - A convenience class to tame the GridBagLayout

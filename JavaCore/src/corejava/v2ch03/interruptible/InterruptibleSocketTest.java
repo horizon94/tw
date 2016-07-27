@@ -1,4 +1,4 @@
-package interruptible;
+package corejava.v2ch03.interruptible;
 
 import java.awt.*;
 import java.awt.event.*;

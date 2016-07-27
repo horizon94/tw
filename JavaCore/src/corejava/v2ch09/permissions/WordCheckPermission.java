@@ -1,4 +1,4 @@
-package permissions;
+package corejava.v2ch09.permissions;
 
 import java.security.*;
 import java.util.*;

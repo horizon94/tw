@@ -1,4 +1,4 @@
-package chart;
+package corejava.v2ch10.chart;
 
 import java.beans.*;
 import java.util.*;

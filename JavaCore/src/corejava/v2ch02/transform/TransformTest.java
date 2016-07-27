@@ -1,4 +1,4 @@
-package transform;
+package corejava.v2ch02.transform;
 
 import java.io.*;
 import java.nio.file.*;

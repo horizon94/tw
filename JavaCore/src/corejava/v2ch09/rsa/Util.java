@@ -1,4 +1,4 @@
-package rsa;
+package corejava.v2ch09.rsa;
 
 import java.io.*;
 import java.security.*;

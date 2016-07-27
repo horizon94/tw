@@ -1,4 +1,4 @@
-package numberFormat;
+package corejava.v2ch05.numberFormat;
 
 import java.awt.*;
 import java.awt.event.*;

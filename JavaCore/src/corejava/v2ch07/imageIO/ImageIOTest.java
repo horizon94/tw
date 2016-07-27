@@ -1,4 +1,4 @@
-package imageIO;
+package corejava.v2ch07.imageIO;
 
 import java.awt.*;
 import javax.swing.*;

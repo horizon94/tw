@@ -1,4 +1,4 @@
-package view;
+package corejava.v2ch04.view;
 
 import java.awt.*;
 import java.awt.event.*;

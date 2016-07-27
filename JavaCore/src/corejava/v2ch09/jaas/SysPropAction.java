@@ -1,4 +1,4 @@
-package jaas;
+package corejava.v2ch09.jaas;
 
 import java.security.*;
 

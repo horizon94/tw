@@ -1,4 +1,4 @@
-package compiler;
+package corejava.v2ch10.compiler;
 
 import java.net.*;
 import javax.tools.*;

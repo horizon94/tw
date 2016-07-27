@@ -1,3 +1,5 @@
+package corejava.v2ch12.printf3;
+
 import java.io.*;
 
 /**

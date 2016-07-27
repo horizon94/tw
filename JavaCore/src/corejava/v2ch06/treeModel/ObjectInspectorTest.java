@@ -1,4 +1,4 @@
-package treeModel;
+package corejava.v2ch06.treeModel;
 
 import java.awt.*;
 import javax.swing.*;

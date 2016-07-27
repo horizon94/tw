@@ -1,4 +1,4 @@
-package progressMonitorInputStream;
+package corejava.v2ch06.progressMonitorInputStream;
 
 import java.awt.event.*;
 import java.io.*;

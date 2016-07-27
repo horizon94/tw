@@ -1,4 +1,4 @@
-package splitPane;
+package corejava.v2ch06.splitPane;
 
 import javax.swing.*;
 

@@ -1,3 +1,5 @@
+package corejava.v2ch12.printf2;
+
 /**
  * @version 1.10 1997-07-01
  * @author Cay Horstmann

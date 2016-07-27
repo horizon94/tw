@@ -1,4 +1,4 @@
-package auth;
+package corejava.v2ch09.auth;
 
 import java.security.*;
 import javax.security.auth.*;

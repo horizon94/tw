@@ -1,4 +1,4 @@
-package persistentFrame;
+package corejava.v2ch08.persistentFrame;
 
 import java.awt.*;
 import java.awt.event.*;

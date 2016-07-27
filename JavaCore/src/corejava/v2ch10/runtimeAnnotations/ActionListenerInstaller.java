@@ -1,4 +1,4 @@
-package runtimeAnnotations;
+package corejava.v2ch10.runtimeAnnotations;
 
 import java.awt.event.*;
 import java.lang.reflect.*;

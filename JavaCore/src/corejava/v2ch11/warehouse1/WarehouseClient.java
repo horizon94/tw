@@ -1,3 +1,5 @@
+package corejava.v2ch11.warehouse1;
+
 import java.rmi.*;
 import java.util.*;
 import javax.naming.*;

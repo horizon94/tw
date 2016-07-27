@@ -1,4 +1,4 @@
-package persistenceDelegate;
+package corejava.v2ch08.persistenceDelegate;
 
 import java.awt.geom.*;
 import java.beans.*;

@@ -1,4 +1,4 @@
-package shape;
+package corejava.v2ch07.shape;
 
 import java.awt.*;
 import java.awt.event.*;

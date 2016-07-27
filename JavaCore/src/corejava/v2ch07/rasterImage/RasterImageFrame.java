@@ -1,4 +1,4 @@
-package rasterImage;
+package corejava.v2ch07.rasterImage;
 
 import java.awt.*;
 import java.awt.image.*;

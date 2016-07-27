@@ -1,4 +1,4 @@
-package sourceAnnotations;
+package corejava.v2ch10.sourceAnnotations;
 import java.lang.annotation.*;
 
 @Documented

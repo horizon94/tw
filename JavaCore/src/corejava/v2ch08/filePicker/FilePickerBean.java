@@ -1,4 +1,4 @@
-package filePicker;
+package corejava.v2ch08.filePicker;
 
 import java.awt.*;
 import java.awt.event.*;

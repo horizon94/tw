@@ -1,4 +1,4 @@
-package zip;
+package corejava.v2ch01.zip;
 
 import java.io.*;
 import java.nio.charset.*;

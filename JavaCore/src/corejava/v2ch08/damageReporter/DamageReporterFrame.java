@@ -1,4 +1,4 @@
-package damageReporter;
+package corejava.v2ch08.damageReporter;
 
 import java.awt.*;
 import java.awt.event.*;

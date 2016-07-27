@@ -1,4 +1,4 @@
-package dnd;
+package corejava.v2ch07.dnd;
 
 import java.awt.*;
 

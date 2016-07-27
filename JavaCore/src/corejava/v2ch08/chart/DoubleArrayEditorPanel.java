@@ -1,4 +1,4 @@
-package chart;
+package corejava.v2ch08.chart;
 
 import java.awt.*;
 import java.awt.event.*;

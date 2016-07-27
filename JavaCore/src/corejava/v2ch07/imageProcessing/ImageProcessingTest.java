@@ -1,4 +1,4 @@
-package imageProcessing;
+package corejava.v2ch07.imageProcessing;
 
 import java.awt.*;
 import javax.swing.*;

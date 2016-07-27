@@ -1,4 +1,4 @@
-package progressBar;
+package corejava.v2ch06.progressBar;
 
 import java.awt.*;
 import java.awt.event.*;

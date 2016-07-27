@@ -1,4 +1,4 @@
-package chart;
+package corejava.v2ch10.chart;
 public class ChartBeanBeanInfo extends java.beans.SimpleBeanInfo
 {
    public java.beans.PropertyDescriptor[] getPropertyDescriptors()

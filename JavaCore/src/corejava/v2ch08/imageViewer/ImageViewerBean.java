@@ -1,4 +1,4 @@
-package imageViewer;
+package corejava.v2ch08.imageViewer;
 
 import java.awt.*;
 import java.io.*;

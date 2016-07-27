@@ -1,3 +1,5 @@
+package corejava.v2ch11.warehouse2;
+
 import java.rmi.*;
 import java.rmi.server.*;
 import java.util.*;
